@@ -1,0 +1,26 @@
+.meme-generator {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.meme-generator img {
+    height: 430px;
+    object-fit: cover;
+
+}
+
+.generate-meme-btn {
+
+    margin-top: 10px;
+    height: 30px;
+    border-radius: 20%;
+    cursor: pointer;
+    color: brown;
+    font-size: 20px;
+}
+
+.generate-meme-btn:hover {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    letter-spacing: 3px;
+}
